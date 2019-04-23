@@ -4,5 +4,5 @@
 # So if a pull request only touches javascript files, only these owners
 # will be requested to review.
 
-/SchoolDataSync/  @LaurenMoynihan
-/M365Education/ @LaurenMoynihan
+/SchoolDataSync/  @DanBaumgartner
+/M365Education/ @DanBaumgartner
